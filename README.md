@@ -4,7 +4,7 @@ A Zettelkasten vault built around Ahrens' *How to Take Smart Notes* and Brown's 
 
 ```
 00 inbox      unprocessed captures, cleared daily
-10 literature translated notes from sources
+10 literature translated notes from sources (books, papers, articles, podcasts, videos)
 20 slip-box   permanent notes and their connections
 30 projects   active writing, one folder per piece
 40 archive    finished projects
