@@ -1,6 +1,7 @@
 # obsidian vault for beginners
 
 A Zettelkasten vault built around Ahrens' *How to Take Smart Notes*.
+https://www.amazon.com/How-Take-Smart-Notes-Technique-ebook/dp/B09V5M8FR5
 
 ```
 00 inbox      unprocessed captures, cleared daily
