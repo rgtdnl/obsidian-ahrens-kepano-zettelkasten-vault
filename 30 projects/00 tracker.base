@@ -1,0 +1,89 @@
+filters:
+  and:
+    - note.categories.contains(link("projects"))
+    - '!file.inFolder("50 templates")'
+    - file.basename != "readme"
+formulas:
+  stale: if(file.mtime < now() - "21d", "stale", "")
+properties:
+  file.name:
+    displayName: project
+  note.status:
+    displayName: status
+  note.due:
+    displayName: due
+  note.type:
+    displayName: type
+  note.started:
+    displayName: started
+  formula.stale:
+    displayName: flag
+views:
+  - type: table
+    name: all projects
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - file.name
+      - type
+      - due
+      - formula.stale
+  - type: table
+    name: active
+    filters:
+      and:
+        - status.contains(link("active"))
+    order:
+      - file.name
+      - due
+      - formula.stale
+    sort:
+      - property: due
+        direction: ASC
+  - type: table
+    name: stalled
+    filters:
+      and:
+        - status.contains(link("active"))
+        - file.mtime < now() - "21d"
+    order:
+      - file.name
+      - due
+      - file.mtime
+  - type: table
+    name: planned
+    filters:
+      and:
+        - status.contains(link("planned"))
+    order:
+      - file.name
+      - type
+      - started
+  - type: table
+    name: draft
+    filters:
+      and:
+        - status.contains(link("draft"))
+    order:
+      - file.name
+      - type
+      - started
+  - type: table
+    name: someday
+    filters:
+      and:
+        - status.contains(link("someday"))
+    order:
+      - file.name
+  - type: table
+    name: done
+    filters:
+      and:
+        - status.contains(link("done"))
+    order:
+      - file.name
+      - due
+    sort:
+      - property: due
+        direction: DESC

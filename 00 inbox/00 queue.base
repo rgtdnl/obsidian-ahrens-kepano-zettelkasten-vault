@@ -1,0 +1,30 @@
+filters:
+  and:
+    - file.inFolder("00 inbox")
+    - file.basename != "readme"
+    - file.ext == "md"
+formulas:
+  age_ms: number(now()) - number(file.ctime)
+  age: (formula.age_ms / 86400000).toFixed(1) + " (" + (formula.age_ms / 3600000).toFixed(0) + "h)"
+properties:
+  file.name:
+    displayName: capture
+  formula.age:
+    displayName: days old
+views:
+  - type: table
+    name: process to zero
+    order:
+      - file.name
+      - formula.age
+    sort:
+      - property: file.ctime
+        direction: ASC
+  - type: table
+    name: rotting
+    filters:
+      and:
+        - file.ctime < now() - "14d"
+    order:
+      - file.name
+      - formula.age

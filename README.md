@@ -34,13 +34,13 @@ Each numbered folder has a `00 …base` file, its dashboard, and a `readme.md`, 
 ## Folders
 
 | Folder | Base | Rule |
-| --- | --- | --- |
+|---|---|---|
 | `00 inbox` | `00 queue.base` | Empty it daily. Nothing here is finished. |
 | `10 literature` | `00 library.base` | One idea per note, in your own words, never copied. |
 | `20 slip-box` | `00 moc.base`, `01 related.base` | One idea per note, linked to what it relates to. Never archived. |
 | `30 projects` | `00 tracker.base` | One subfolder per project. References the slip-box, doesn't absorb it. |
-| `40 archive` | —   | Finished projects only. Not a home for literature or permanent notes. |
+| `40 archive` | — | Finished projects only. Not a home for literature or permanent notes. |
 
 ## Credits
 
-Method: Sönke Ahrens, *How to Take Smart Notes*; kepano (https://github.com/kepano/kepano-obsidian) for the use of categories and base files. The MOC/related-notes pattern is a community adaptation, not from either source.
+Method: Sönke Ahrens, *How to Take Smart Notes*; Peter C. Brown, *Make It Stick*. The MOC/related-notes pattern is a community adaptation, not from either book.

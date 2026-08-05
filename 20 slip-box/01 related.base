@@ -1,0 +1,42 @@
+filters:
+  and:
+    - file.path != this.file.path
+    - note.categories.contains(link("permanent"))
+    - file.basename != "readme"
+formulas:
+  LinksOverlap: formula.Related.length
+  Related: list(this.file.links).filter(list(file.links).containsAny(value)).unique()
+  BacklinksCount: file.backlinks.length
+  TagsOverlap: list(this.file.tags).filter(list(file.tags).containsAny(value)).unique().length
+properties:
+  formula.LinksOverlap:
+    displayName: links overlap
+  file.name:
+    displayName: name
+  formula.BacklinksCount:
+    displayName: backlinks count
+  formula.TagsOverlap:
+    displayName: tags overlap
+  formula.Related:
+    displayName: links
+views:
+  - type: table
+    name: related
+    filters:
+      or:
+        - formula.LinksOverlap > 2
+        - file.hasLink(this.file)
+        - this.file.hasLink(file)
+    order:
+      - file.name
+      - formula.Related
+    sort:
+      - property: formula.LinksOverlap
+        direction: DESC
+      - property: formula.TagsOverlap
+        direction: DESC
+      - property: formula.BacklinksCount
+        direction: DESC
+    limit: 20
+    columnSize:
+      file.name: 220

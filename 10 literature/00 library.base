@@ -1,0 +1,78 @@
+filters:
+  and:
+    - categories.contains(link("literature"))
+    - '!file.inFolder("50 templates")'
+    - '!file.inFolder("00 inbox")'
+    - file.basename != "readme"
+    - file.ext == "md"
+properties:
+  file.name:
+    displayName: source
+  authors:
+    displayName: authors
+  type:
+    displayName: type
+  status:
+    displayName: status
+  year:
+    displayName: year
+  rating:
+    displayName: rating
+  last:
+    displayName: last touched
+views:
+  - type: table
+    name: all sources
+    order:
+      - file.name
+      - authors
+      - type
+      - status
+      - rating
+      - last
+    sort:
+      - property: last
+        direction: DESC
+  - type: table
+    name: to read
+    filters:
+      and:
+        - status.contains(link("to read"))
+    order:
+      - file.name
+      - authors
+      - type
+      - year
+  - type: table
+    name: reading now
+    filters:
+      and:
+        - status.contains(link("reading"))
+    order:
+      - file.name
+      - authors
+      - type
+      - last
+    sort:
+      - property: last
+        direction: ASC
+  - type: table
+    name: unmined
+    filters:
+      and:
+        - status.contains(link("read"))
+        - file.backlinks.length == 0
+    order:
+      - file.name
+      - authors
+      - last
+  - type: table
+    name: no status
+    filters:
+      and:
+        - "!status"
+    order:
+      - file.name
+      - authors
+      - type
+      - last
