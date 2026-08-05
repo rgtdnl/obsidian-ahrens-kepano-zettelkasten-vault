@@ -43,4 +43,4 @@ Each numbered folder has a `00 …base` file, its dashboard, and a `readme.md`, 
 
 ## Credits
 
-Method: Sönke Ahrens, *How to Take Smart Notes*; Peter C. Brown, *Make It Stick*. The MOC/related-notes pattern is a community adaptation, not from either book.
+Method: Sönke Ahrens, *How to Take Smart Notes*; and kepano's categories and base files (https://github.com/kepano/kepano-obsidian). The MOC/related-notes pattern is a community adaptation, not from either book.
