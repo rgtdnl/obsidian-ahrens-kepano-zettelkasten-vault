@@ -1,6 +1,7 @@
 # How to Take Smart Notes in Obsidian — A Practical Guide
 
 *Based on "How to Take Smart Notes" by Sönke Ahrens (2022 revised edition)*
+https://www.amazon.com/How-Take-Smart-Notes-Technique-ebook/dp/B09V5M8FR5
 
 *The Zettelkasten method, as practiced by sociologist Niklas Luhmann, who wrote 58 books and hundreds of articles using this system.*
 
