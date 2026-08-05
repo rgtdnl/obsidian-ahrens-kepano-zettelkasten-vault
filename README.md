@@ -1,6 +1,6 @@
 # obsidian vault for beginners
 
-A Zettelkasten vault built around Ahrens' *How to Take Smart Notes* and Brown's *Make It Stick*, structured as a numbered pipeline: capture → translate → connect → write.
+A Zettelkasten vault built around Ahrens' *How to Take Smart Notes*.
 
 ```
 00 inbox      unprocessed captures, cleared daily
