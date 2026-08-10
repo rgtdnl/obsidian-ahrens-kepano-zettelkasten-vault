@@ -45,3 +45,5 @@ Each numbered folder starts with `00 guide.md`, its rulebook. Read the `00 guide
 ## Credits
 
 Method: Sönke Ahrens, *How to Take Smart Notes*; and kepano's categories and base files (https://github.com/kepano/kepano-obsidian). The Map of Content (MOC) and related-notes pattern is a community adaptation, not from either source specifically.
+
+Prefer the plain method without dashboards? See the stock Ahrens version: https://github.com/rgtdnl/obsidian-ahrens-zettelkasten
