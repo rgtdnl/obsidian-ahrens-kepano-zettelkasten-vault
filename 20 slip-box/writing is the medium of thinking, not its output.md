@@ -5,7 +5,7 @@ tags:
   - permanent
 topics: []
 sources:
-  - "[[ahrens2022]]"
+  - "[[sönke ahrens - how to take smart notes]]"
 created: 2026-08-10
 ---
 
@@ -17,7 +17,7 @@ Writing is not the final step that happens after thinking is done; it is where t
 - raises: [[simple structure lets complexity build on the content level]]
 
 ## source
-[[ahrens2022]] p. 10-13, 38-39
+[[sönke ahrens - how to take smart notes]] p. 10-13, 38-39
 
 ## open loops
 - #loop does one paragraph of own-words writing reliably expose a gap in understanding?

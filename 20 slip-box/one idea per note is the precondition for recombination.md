@@ -5,7 +5,7 @@ tags:
   - permanent
 topics: []
 sources:
-  - "[[ahrens2022]]"
+  - "[[sönke ahrens - how to take smart notes]]"
 created: 2026-08-10
 ---
 
@@ -17,7 +17,7 @@ Restricting each note to exactly one idea, written in full sentences as if for s
 - raises: 
 
 ## source
-[[ahrens2022]] p. 41, 171, 179
+[[sönke ahrens - how to take smart notes]] p. 41, 171, 179
 
 ## open loops
 - 

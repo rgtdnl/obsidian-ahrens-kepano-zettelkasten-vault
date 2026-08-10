@@ -5,7 +5,7 @@ tags:
   - permanent
 topics: []
 sources:
-  - "[[ahrens2022]]"
+  - "[[sönke ahrens - how to take smart notes]]"
 created: 2026-08-10
 ---
 
@@ -17,7 +17,7 @@ Fleeting notes are reminders of thoughts, written in any format, and they end up
 - raises: 
 
 ## source
-[[ahrens2022]] p. 62-67
+[[sönke ahrens - how to take smart notes]] p. 62-67
 
 ## open loops
 - 

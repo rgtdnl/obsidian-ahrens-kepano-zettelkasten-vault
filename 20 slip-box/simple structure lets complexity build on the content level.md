@@ -5,7 +5,7 @@ tags:
   - permanent
 topics: []
 sources:
-  - "[[ahrens2022]]"
+  - "[[sönke ahrens - how to take smart notes]]"
 created: 2026-08-10
 ---
 
@@ -17,7 +17,7 @@ The best way to deal with complexity is to keep the structure simple and follow 
 - raises: 
 
 ## source
-[[ahrens2022]] p. 20, 61
+[[sönke ahrens - how to take smart notes]] p. 20, 61
 
 ## open loops
 - 

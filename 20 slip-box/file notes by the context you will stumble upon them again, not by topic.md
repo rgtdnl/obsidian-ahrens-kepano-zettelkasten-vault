@@ -5,7 +5,7 @@ tags:
   - permanent
 topics: []
 sources:
-  - "[[ahrens2022]]"
+  - "[[sönke ahrens - how to take smart notes]]"
 created: 2026-08-10
 ---
 
@@ -17,7 +17,7 @@ The old filing question is "Under which topic do I store this note?"; the new on
 - raises: 
 
 ## source
-[[ahrens2022]] p. 35, 61, 70
+[[sönke ahrens - how to take smart notes]] p. 35, 61, 70
 
 ## open loops
 - 
