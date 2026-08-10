@@ -1,7 +1,7 @@
 filters:
   and:
     - file.inFolder("00 inbox")
-    - file.basename != "readme"
+    - file.basename != "00 guide"
     - file.ext == "md"
 formulas:
   age_ms: number(now()) - number(file.ctime)

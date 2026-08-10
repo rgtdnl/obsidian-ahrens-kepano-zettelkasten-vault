@@ -3,7 +3,7 @@ filters:
     - categories.contains(link("literature"))
     - '!file.inFolder("50 templates")'
     - '!file.inFolder("00 inbox")'
-    - file.basename != "readme"
+    - file.basename != "00 guide"
     - file.ext == "md"
 properties:
   file.name:

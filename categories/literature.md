@@ -3,4 +3,4 @@ tags:
   - categories
 ---
 
-![[00 moc.base]]
+![[01 library.base]]

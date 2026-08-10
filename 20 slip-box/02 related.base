@@ -2,7 +2,7 @@ filters:
   and:
     - file.path != this.file.path
     - note.categories.contains(link("permanent"))
-    - file.basename != "readme"
+    - file.basename != "00 guide"
 formulas:
   LinksOverlap: formula.Related.length
   Related: list(this.file.links).filter(list(file.links).containsAny(value)).unique()

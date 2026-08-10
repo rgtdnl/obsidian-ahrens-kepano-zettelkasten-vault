@@ -2,7 +2,7 @@ filters:
   and:
     - note.categories.contains(link("permanent"))
     - '!file.inFolder("50 templates")'
-    - file.basename != "readme"
+    - file.basename != "00 guide"
 formulas:
   in: file.backlinks.length
   out: file.links.length

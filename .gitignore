@@ -1,0 +1,10 @@
+# Obsidian workspace state (machine-specific, regenerated on open)
+.obsidian/
+.trash/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Personal raw book highlights (margin notes, never published)
+00 inbox/*raw.md

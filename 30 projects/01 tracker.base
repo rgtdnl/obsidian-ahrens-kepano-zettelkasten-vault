@@ -2,7 +2,7 @@ filters:
   and:
     - note.categories.contains(link("projects"))
     - '!file.inFolder("50 templates")'
-    - file.basename != "readme"
+    - file.basename != "00 guide"
 formulas:
   stale: if(file.mtime < now() - "21d", "stale", "")
 properties:

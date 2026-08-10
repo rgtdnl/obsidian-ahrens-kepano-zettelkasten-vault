@@ -3,4 +3,4 @@ tags:
   - categories
 ---
 
-![[00 library.base]]
+![[01 queue.base]]

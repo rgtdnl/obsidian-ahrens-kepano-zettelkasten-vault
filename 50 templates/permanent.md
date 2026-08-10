@@ -19,4 +19,4 @@ created: {{date:YYYY-MM-DD}}
 - #loop 
 
 ## related in the slip-box
-![[01 related.base]]
+![[02 related.base]]

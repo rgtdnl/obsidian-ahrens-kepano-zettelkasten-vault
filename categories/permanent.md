@@ -3,4 +3,4 @@ tags:
   - categories
 ---
 
-![[00 queue.base]]
+![[01 moc.base]]
