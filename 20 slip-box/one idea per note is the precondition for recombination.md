@@ -9,7 +9,7 @@ sources:
 created: 2026-08-10
 ---
 
-Restricting each note to exactly one idea, written in full sentences as if for someone else, is the precondition for freely recombining notes later. Standardising all notes into one format means an idea can be added to multiple contexts, compared with others, and shuffled into new combinations without losing what it contains. The physical A6 card enforced this restriction; the digital rule of thumb is a note that fits on the screen without scrolling.
+When every note holds exactly one idea, written in full sentences as if for someone else, the notes can be freely recombined later: dropped into several contexts, compared with one another, and shuffled into new arrangements without losing what they contain. A single standard format across all notes makes that possible. The A6 card imposed the limit physically; digitally, the aim is a note short enough to read without scrolling.
 
 ## connects to
 - extends: [[permanent notes contain the thought, fleeting notes only point at it]], [[simple structure lets complexity build on the content level]]

@@ -9,7 +9,7 @@ sources:
 created: 2026-08-10
 ---
 
-Writing is not the final step that happens after thinking is done; it is where thinking happens. Every intellectual endeavour starts with a note, and writing is the medium of research, learning, and studying rather than their output. Externalising an idea forces understanding, because rephrasing it in your own words exposes the gaps. The practical consequence is that note-taking is not preparation for the real work: it is the real work, and a good note system is what prevents the blank page.
+Writing is not the final step that happens after thinking is done; it is where thinking happens. For Ahrens, a note is where every intellectual effort begins, and writing is the medium in which research, learning, and studying proceed rather than their end product. Putting an idea down in one's own words forces understanding, because rephrasing exposes what is not yet clear. Note-taking is therefore not preparation for the real work; it is the real work, and a sound note system is what keeps the blank page from ever being blank.
 
 ## connects to
 - extends: 

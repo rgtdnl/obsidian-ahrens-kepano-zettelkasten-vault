@@ -9,7 +9,7 @@ sources:
 created: 2026-08-10
 ---
 
-Willpower is a limited resource that depletes quickly, so success comes not from exerting it but from designing an environment where it is not needed. Ahrens cites research on successful people showing that achievement results from smart working environments that avoid resistance in the first place. The slip-box is such an environment: a structure you can trust relieves you of remembering and tracking everything, which frees attention for the content itself. Self-control is therefore more a property of the environment than of the person, and the environment can be changed.
+Willpower is a scarce resource that drains quickly, so achievement comes less from summoning it than from arranging an environment that does not demand it. Ahrens points to studies of high performers showing that their results follow from working environments engineered to avoid resistance in the first place. The slip-box works the same way: once the structure is dependable it takes over the remembering and tracking, leaving attention free for the content itself. Self-control is thus more a feature of the environment than of the person, and the environment can be rebuilt.
 
 ## connects to
 - extends: 

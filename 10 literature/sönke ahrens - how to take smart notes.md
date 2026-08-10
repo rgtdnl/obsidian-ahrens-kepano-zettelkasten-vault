@@ -26,22 +26,22 @@ last: 2026-08-10
 - Writing is the medium of thinking, not its afterthought: notes are where ideas get developed, and good note-taking is what makes writing possible without a blank-page struggle (p. 10-13).
 - Academic success tracks everyday work habits more than IQ; self-discipline matters, but willpower is a limited resource that depletes (p. 13-15).
 - Self-control is shaped more by environment than by the self: a well-designed structure means you do not need willpower (p. 15, 30).
-- A good structure is one you can trust; it relieves you of remembering everything and frees attention for content (p. 16, 24).
-- Keep the structure simple and follow a few basic principles; complexity then builds up on the content level, where it belongs (p. 20).
-- Luhmann ran two boxes: a bibliographic one (references + brief content notes) and the main slip-box (his own ideas, one per card, full sentences, written as if for print) (p. 32-33).
+- A reliable structure carries the remembering and tracking burden, leaving the mind free for the content (p. 16, 24).
+- Keep the framework simple and follow a few core principles; the complexity then accumulates where it belongs, in the content (p. 20).
+- Luhmann ran two boxes: a bibliographic one (references + brief content notes) and the main slip-box (his own ideas, one per card, in full sentences with explicit references to the literature) (p. 32-33).
 - The index refers to one or two notes as entry points into a line of thought; it is a way in, not a table of contents (p. 35).
 - Topics develop bottom up from the notes, guided by interest, not from a pre-made plan (p. 35, 41).
 - The workflow: fleeting notes in one inbox, literature notes while reading, then permanent notes from both, filed behind related notes and linked both ways (p. 39-43).
 - Four tools suffice: something to write with, a reference system, the slip-box, an editor. "More is unnecessary, less is impossible" (p. 47).
-- The filing question changed from "Under which topic do I store this?" to "In which context will I want to stumble upon this again?" (p. 61).
+- The filing question shifted from asking which topic a note belongs to, to asking in which context the note should resurface later (p. 61).
 - Three note types with distinct fates: fleeting (trash within 1-2 days), permanent (never thrown away, stored the same way in the same place), project (discarded or archived when done) (p. 62).
-- Permanent notes contain the actual thought in written form; fleeting notes only point at it (p. 67).
-- Write exactly one note per idea, in full sentences, as if for someone else, with sources disclosed (p. 41).
+- A permanent note is the idea itself set down in writing; a fleeting note only points back at a thought (p. 67).
+- Give each idea its own note, in complete sentences, addressed to someone else, and name the sources (p. 41).
 - "An idea kept private is as good as one you never had" (p. 54).
-- The slip-box presents you with ideas you have forgotten, so the brain can focus on thinking instead of remembering (p. 62).
+- Because the slip-box brings back ideas you have long forgotten, the brain can think instead of trying to remember (p. 62).
 - Working memory holds roughly seven (or, by later research, about four) items; an external structure compensates for that limit (p. 95-96).
 - Feedback loops drive learning and motivation; flexible attention, alternating focus and playful exploration, distinguishes eminent scientists (p. 76, 90).
-- Deliberate practice, not talent, is the serious way to improve (p. 57).
+- Improvement comes from deliberate practice; talent alone does not do it (p. 57).
 
 ## verbatim
 

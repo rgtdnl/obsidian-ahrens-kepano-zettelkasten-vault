@@ -9,7 +9,7 @@ sources:
 created: 2026-08-10
 ---
 
-Fleeting notes are reminders of thoughts, written in any format, and they end up in the trash within a day or two. Permanent notes contain the actual thought or idea in written form: one idea, full sentences, written as if for print, understandable even when the original context is forgotten. The crucial difference is that permanent notes are no longer reminders; they are the thought itself, stored in a permanently understandable way in one place. Only literature notes, which can be brief because the context is the text, and slip-box notes, which must be self-explanatory, are stored permanently.
+Fleeting notes are reminders of thoughts, written in any format, and they end up in the trash within a day or two. A permanent note carries the idea itself rather than a pointer to it: one idea, in full sentences, polished to stand alone, so that it makes sense once the original context is gone. The decisive difference is that a permanent note is not a reminder of a thought but the thought itself, fixed in writing and stored the same way in the same place. Only literature notes, which may be brief because the text is the context, and slip-box notes, which must be self-explanatory, are kept permanently.
 
 ## connects to
 - extends: [[writing is the medium of thinking, not its output]]
