@@ -53,4 +53,4 @@ Podcast episodes featuring the author after the book's publication:
 
 Method: Sönke Ahrens, *How to Take Smart Notes*. Categories and base files: kepano (https://github.com/kepano/kepano-obsidian). The Map of Content (MOC) and related-notes pattern is a community adaptation, not from either source specifically. CC BY 4.0.
 
-Prefer the plain method without dashboards? See the stock Ahrens version: https://github.com/rgtdnl/obsidian-ahrens-zettelkasten
+Prefer the plain method without dashboards? See the stock Ahrens version: https://github.com/rgtdnl/obsidian-ahrens-zettelkasten-stock-vault
