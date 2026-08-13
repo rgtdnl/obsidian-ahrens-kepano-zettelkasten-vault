@@ -2,25 +2,6 @@
 
 A Zettelkasten vault built around Sönke Ahrens' *How to Take Smart Notes*, with Kepano's categories and base files powering the dashboards. Six folders, six templates, five base views.
 
-## The book
-
-**Sönke Ahrens, *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking* (Polity Press, 2017).** The book explains why the Zettelkasten works and exactly how to run one: fleeting notes capture, literature notes translate sources into your own words, permanent notes carry one idea each, and the slip-box turns them into writing. This vault is that method translated to Obsidian.
-
-- Author's website: https://www.soenkeahrens.de/
-- Get the book: [ebook on Amazon](https://www.amazon.com/How-Take-Smart-Notes-Technique-ebook/dp/B09V5M8FR5) · [audiobook on Audible](https://www.audible.com/pd/How-to-Take-Smart-Notes-Audiobook/B0DXQYJ2ZS)
-
-The book is short, and reading it beats any template: the vault gives you the structure, the book gives you the why.
-
-## Resources: Sönke Ahrens in conversation
-
-Podcast episodes featuring the author after the book's publication:
-
-- **The Informed Life**, Episode 122: "Sönke Ahrens on Smart Notes" (September 2023) — notes, thinking, and learning through the zettelkasten. https://theinformed.life/2023/09/10/episode-122-soenke-ahrens/
-- **Coaching for Leaders**, Episode 564: "Make Your Reading More Meaningful, with Sönke Ahrens" (January 2022) — turning reading into notes that fuel writing and thinking. https://coachingforleaders.com/podcast/make-reading-more-meaningful-sonke-ahrens/
-- **The Unmistakable Creative**: "The Knowledge Management Series: Sönke Ahrens | How to Take Smart Notes" (October 2022) — the method, the science behind it, and how to apply it. https://shows.acast.com/the-unmistakable-creative-podcast/episodes/the-knowledge-management-series-sonke-ahrens-how-to-take-sma
-- **MindHack**, Episode 094: "Sönke Ahrens - AI-Proof Your Brain: Smart Notes Strategy" (July 2025) — smart notes as the antidote to AI: keeping your ideas uniquely yours in an AI-driven world. https://podcasts.apple.com/us/podcast/094-s%C3%B6nke-ahrens-ai-proof-your-brain-smart-notes-strategy/id1374599416?i=1000717529590
-- **Exam Study Expert**, Episode 199: "Zettelkasten 'Super' Notes: with Dr Sönke Ahrens" (September 2025) — the zettelkasten as a superpower for productivity, insights, and research. https://examstudyexpert.com/zettelkasten/
-
 ## What this vault adds
 
 Kepano's categories and base files on top of the method: category pages, dashboard views per folder, and templates that file a note onto the right dashboard automatically.
@@ -46,6 +27,27 @@ Each folder starts with `00 guide.md`, its rulebook; read it before working in t
 1. Obsidian 1.9+ (Bases is a core plugin; built and tested on 1.13.4).
 2. Enable Templates (Settings → Core plugins) and set its template folder to `50 templates`.
 3. Bases is on by default in 1.9+. No configuration needed.
+
+## The book
+
+**Sönke Ahrens, *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking* (Polity Press, 2017).** The book explains why the Zettelkasten works and exactly how to run one: fleeting notes capture, literature notes translate sources into your own words, permanent notes carry one idea each, and the slip-box turns them into writing. This vault is that method translated to Obsidian.
+
+- Author's website: https://www.soenkeahrens.de/
+- Get the book: [ebook on Amazon](https://www.amazon.com/How-Take-Smart-Notes-Technique-ebook/dp/B09V5M8FR5) · [audiobook on Audible](https://www.audible.com/pd/How-to-Take-Smart-Notes-Audiobook/B0DXQYJ2ZS)
+
+The book is short, and reading it beats any template: the vault gives you the structure, the book gives you the why.
+
+## Resources: Sönke Ahrens in conversation
+
+Podcast episodes featuring the author after the book's publication:
+
+- **Finding Genius**: "Duly Noted: Dr. Sönke Ahrens, author of How to Take Smart Notes — Finding Efficiency in Note-taking" (August 2019) — note-taking for more comprehensive learning and increased productivity. https://www.findinggeniuspodcast.com/podcasts/duly-noted-dr-sonke-ahrens-author-how-to-take-smart-notes-finding-efficiency-in-note-taking-to-achieve-more-comprehensive-learning-and-increased-productivity/
+- **Coaching for Leaders**, Episode 564: "Make Your Reading More Meaningful, with Sönke Ahrens" (January 2022) — turning reading into notes that fuel writing and thinking. https://coachingforleaders.com/podcast/make-reading-more-meaningful-sonke-ahrens/
+- **The Unmistakable Creative**: "The Knowledge Management Series: Sönke Ahrens | How to Take Smart Notes" (October 2022) — the method, the science behind it, and how to apply it. https://shows.acast.com/the-unmistakable-creative-podcast/episodes/the-knowledge-management-series-sonke-ahrens-how-to-take-sma
+- **The Informed Life**, Episode 122: "Sönke Ahrens on Smart Notes" (September 2023) — notes, thinking, and learning through the zettelkasten. https://theinformed.life/2023/09/10/episode-122-soenke-ahrens/
+- **MindHack**, Episode 094: "Sönke Ahrens - AI-Proof Your Brain: Smart Notes Strategy" (July 2025) — smart notes as the antidote to AI: keeping your ideas uniquely yours in an AI-driven world. https://podcasts.apple.com/us/podcast/094-s%C3%B6nke-ahrens-ai-proof-your-brain-smart-notes-strategy/id1374599416?i=1000717529590
+- **Wisepreneurs**: "Sönke Ahrens on Zettelkasten, Obsidian & Smart Notes" (July 2025) — the method in practice, and using Obsidian to run it. https://www.wisepreneurs.au/sonke-ahrens-experience-to-insight/
+- **Exam Study Expert**, Episode 199: "Zettelkasten 'Super' Notes: with Dr Sönke Ahrens" (September 2025) — the zettelkasten as a superpower for productivity, insights, and research. https://examstudyexpert.com/zettelkasten/
 
 ## Credits
 
