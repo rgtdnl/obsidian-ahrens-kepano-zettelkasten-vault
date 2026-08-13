@@ -11,6 +11,14 @@ A Zettelkasten vault built around Sönke Ahrens' *How to Take Smart Notes*, with
 
 The book is short, and reading it beats any template: the vault gives you the structure, the book gives you the why.
 
+## Resources: Sönke Ahrens in conversation
+
+Podcast episodes featuring the author after the book's publication:
+
+- **The Informed Life**, Episode 122: "Sönke Ahrens on Smart Notes" (September 2023) — notes, thinking, and learning through the zettelkasten. https://theinformed.life/2023/09/10/episode-122-soenke-ahrens/
+- **Coaching for Leaders**, Episode 564: "Make Your Reading More Meaningful, with Sönke Ahrens" (January 2022) — turning reading into notes that fuel writing and thinking. https://coachingforleaders.com/podcast/make-reading-more-meaningful-sonke-ahrens/
+- **The Unmistakable Creative**: "The Knowledge Management Series: Sönke Ahrens | How to Take Smart Notes" (October 2022) — the method, the science behind it, and how to apply it. https://shows.acast.com/the-unmistakable-creative-podcast/episodes/the-knowledge-management-series-sonke-ahrens-how-to-take-sma
+
 ## What this vault adds
 
 Kepano's categories and base files on top of the method: category pages, dashboard views per folder, and templates that file a note onto the right dashboard automatically.
